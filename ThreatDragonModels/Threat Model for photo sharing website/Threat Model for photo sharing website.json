@@ -1,0 +1,16 @@
+{
+  "version": "2.0.6",
+  "summary": {
+    "title": "Threat Model for photo sharing website",
+    "owner": "nithish",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
