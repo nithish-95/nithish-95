@@ -121,5 +121,4 @@ My workflow includes:
 
 Tools I use or explore:
 
-```text
-OpenCode · Claude Code · Cursor · Codex · AI Agents · RAG Workflows
+OpenCode · Claude Code · Cursor · Codex · Zed
